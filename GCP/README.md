@@ -1,45 +1,45 @@
 # GCP (Garrysmod Communication Protocol)
 
-​	GCP Required Pins :
+### GCP Required Pins :
 
-​		From Adress Pins : [ A , B ]
+####			From Adress Pins : [ A , B ]
 
-​			[ A ]	Max : 255.255	
+#####					[ A ]	Max : 255.255	
 
-​			[ A ]	Min : 0.0
+##### 		[ A ]	Min : 0.0
 
-​			[ B ]	Max : 255.255	
+##### 		[ B ]	Max : 255.255	
 
-​			[ B ]	Min : 0.0
+##### 		[ B ]	Min : 0.0
 
-​		To Adress Pins : [ C , F ]	
+####			To Adress Pins : [ C , F ]	
 
-​			[ C ]	Max : 255.255	
+#####					[ C ]	Max : 255.255	
 
-​			[ C ]	Min : 0.0
+#####					[ C ]	Min : 0.0
 
-​			[ F ]	Max : 255.255	
+#####					[ F ]	Max : 255.255	
 
-​			[ F ]	Min : 0.0
+#####					[ F ]	Min : 0.0
 
-​		Send Pin : [ E ]	
+####			Send Pin : [ E ]	
 
-​			[ E ]	Max : 1
+#####					[ E ]	Max : 1
 
-​			[ E ]	Min : 0
+#####					[ E ]	Min : 0
 
-​		Data Pins  : [ D , G , H ] 
+####			Data Pins  : [ D , G , H ] 
 
-​			[ D ]	Max : 255	
+#####				[ D ]	Max : 255	
 
-​			[ D ]	Min : 0
+##### 		[ D ]	Min : 0
 
-​			[ G ]	Max : 255
+##### 		[ G ]	Max : 255
 
-​			[ G ]	Min : 0	
+##### 		[ G ]	Min : 0	
 
-​			[ H ]	Max : 255
+##### 		[ H ]	Max : 255
 
-​			[ H ]	Min : 0	
+##### 		[ H ]	Min : 0	
 
 ​	
